@@ -1,16 +1,16 @@
 # READ-ME
 # 👋 Hey, I'm Pradyun Krishna
 
-🎯 Still studying but on a mission to skill up & build big!  
+ Still studying but on a mission to skill up & build big!  
 💻 Tech Explorer | 🛡️ Cybersecurity Learner | 🤖 AI Curious  
 
 ---
 
-### 🚀 About Me
-- 🔐 Interested in Cybersecurity, Ethical Hacking & AI
-- 📚 Currently leveling up in diploma (CS)
-- 🌱 Learning new tech daily, one line of code at a time
-- 💡 I believe in smart work + consistent hustle
+###  About Me
+-  Interested in Cybersecurity, Ethical Hacking & AI
+- Currently leveling up in diploma (CS)
+- Learning new tech daily, one line of code at a time
+-  I believe in smart work + consistent hustle
 
 ---
 
@@ -27,14 +27,14 @@
 
 ---
 
-### 🧠 Quote I Live By
+### Quote I Live By
 > _"Grow through what you go through."_  
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 📧 pradyunkrishna2410@gmail.com  
-🔐 Want to collaborate or learn together? DM me!
+ Want to collaborate or learn together? DM me!
 
 ---
 
